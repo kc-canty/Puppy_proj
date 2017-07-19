@@ -1,0 +1,58 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+
+#site_header{
+	background-color: #ff8523;
+	width: 1350px;
+	height: 150px;
+
+}
+
+#page_content h2{
+	 color: #1fabe5;
+
+}
+
+
+body{
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+<a href="#"> {
+	color: #1fabe5;
+}
+
+
+h3{
+	color: #1fabe5;
+}
+
+table {
+	border-collapse: collapse;
+
+}
+
+table, th, td {
+   border: 1px solid #1fabe5; 
+}
+
+   #bio {
+   	border: 1px solid #1fabe5;
+
+
+
+
+
+	
